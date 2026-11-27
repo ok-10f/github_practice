@@ -13,7 +13,5 @@ int main(void){
 
 	printf("平均値は%.1fです。\n",(a+b)/2.0);
 
-	printf("計算が終了しました。\n");
-
         return 0;
 }
