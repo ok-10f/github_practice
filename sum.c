@@ -11,7 +11,5 @@ int main(void){
 
         printf("合計は%dです。\n", a + b);
 
-	printf("平均値は%.1fです。\n",(a+b)/2.0);
-
         return 0;
 }
